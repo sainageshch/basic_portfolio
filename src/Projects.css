@@ -1,0 +1,11 @@
+h1{
+    color: #eece1a;
+    font-size:30px;
+    margin-bottom:0.6rem !important;
+}
+p{
+    font-size: 20px;
+}
+a:hover{
+    font-size: 35px;
+}

@@ -1,0 +1,14 @@
+.border{
+    border-bottom:1px solid;
+    margin:1px;
+}
+
+h2{
+    color: #eece1a;
+    font-size:30px;
+   
+    margin-bottom:0.6rem !important;
+}
+p{
+    font-size: 30;
+}
